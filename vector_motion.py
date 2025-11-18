@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-git
+
 import argparse
 import subprocess
 import os
